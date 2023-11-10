@@ -4,7 +4,7 @@
 In this project, a climate analysis is performed by using sqlalchemy query to climate database of Honolulu, Hawaii, to help planing vacation trips.
 
 ![image](https://github.com/gialiubc/sqlalchemy-challenge/assets/141379548/3654a775-55b6-46f4-b4b2-ef621f1fdc88)
-ote
+
 
 ## Project Content
 - A Resource folder containing one sqlite file and two csv files;
